@@ -5,11 +5,10 @@ Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e
 ## 📊 Le mie Statistiche GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Le statistiche di lkhayaweb92" />
+  <img src="https://vercel.app" width="400" />
+  <img src="https://vercel.app" width="300" />
 </p>
-<p align="center">
-  <img src="https://vercel.app" alt="I linguaggi più usati" />
-</p>
+
 
 ---
 
