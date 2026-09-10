@@ -11,12 +11,6 @@ Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e
   </a>
 </p>
 
-<p align="center">
-  <!-- Questo è il riquadro dei linguaggi più utilizzati nel codice -->
-  <img src="https://vercel.app" width="400" />
-</p>
-```
-
 ---
 
 ## 🛠️ I Miei Progetti Metin2
