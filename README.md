@@ -5,14 +5,14 @@ Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e
 ## 📊 Le mie Statistiche GitHub
 
 <p align="center">
-  <!-- Questa è la Streak esatta che usa MartySama con i parametri ufficiali -->
+  <!-- Grafico della fiammata delle Streak corretto -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img src="https://demolab.com" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <!-- Questo è il riquadro dei linguaggi più utilizzati (Server Stabile di Vercel) -->
+  <!-- Grafico dei linguaggi più usati coordinato -->
   <img src="https://vercel.app" width="400" />
 </p>
 
