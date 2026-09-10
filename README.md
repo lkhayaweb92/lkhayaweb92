@@ -2,20 +2,6 @@
 
 Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e programmazione.
 
-## 📊 Le mie Statistiche GitHub
-
-<p align="center">
-  <!-- Grafico della fiammata delle Streak corretto -->
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://demolab.com" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="center">
-  <!-- Grafico dei linguaggi più usati coordinato -->
-  <img src="https://vercel.app" width="400" />
-</p>
-
 ---
 
 ## 🛠️ I Miei Progetti Metin2
@@ -23,8 +9,11 @@ Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e
 | Progetto | Stato | Link |
 | :--- | :--- | :--- |
 | ⚔️ **Server_MT2** | In Sviluppo (Lican & Stole) | [Apri Repository](https://github.com) |
-| 📊 **Roadmap** | Aggiornata in tempo reale | [Vedi Lavagna](https://github.com) |
+| 📊 **Roadmap** | Aggiornata in tempo reale | [Vedi Lavagna dei Progressi](https://github.com) |
 
 ---
-☕ Se vuoi supportare il mio lavoro, puoi offrirmi un caffè spontaneo qui:
-[Inserisci qui il tuo link Ko-fi o PayPal]
+> 🚀 *Nota: Lo sviluppo dei file è attualmente in corso. Puoi monitorare tutti i fix completati (come il Lican e le Stole) cliccando sul link della Roadmap qui sopra.*
+
+---
+☕ Se apprezzi il mio tempo e vuoi supportare le lunghe notti passate a programmare, puoi offrirmi un caffè spontaneo qui:
+[Inserisci qui il tuo link Ko-fi o PayPal quando sarà pronto]
