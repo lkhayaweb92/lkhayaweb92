@@ -8,8 +8,8 @@ Benvenuti sul mio profilo GitHub. Sono uno sviluppatore appassionato di Metin2 e
 
 | Progetto | Stato | Link |
 | :--- | :--- | :--- |
-| ⚔️ **Server_MT2** | In Sviluppo (Lican & Stole) | [Apri Repository](https://github.com) |
-| 📊 **Roadmap** | Aggiornata in tempo reale | [Vedi Lavagna dei Progressi](https://github.com) |
+| ⚔️ **Server_MT2** | In Sviluppo (Lican & Stole) | [Apri Repository](https://github.com/lkhayaweb92/Server_MT2) |
+| 📊 **Roadmap** | Aggiornata in tempo reale | [Vedi Project Board](https://github.com/users/lkhayaweb92/projects/1) |
 
 ---
 > 🚀 *Nota: Lo sviluppo dei file è attualmente in corso. Puoi monitorare tutti i fix completati (come il Lican e le Stole) cliccando sul link della Roadmap qui sopra.*
